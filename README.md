@@ -75,7 +75,7 @@ RISC-V 기반 Multi-Cycle CPU를 설계하고, APB 버스를 통해 UART Periphe
 ![top Block diagram](./images/top.png)
 
 ### 📊 PC & FPGA 동작 화면
-![FPGA Operation](./images/odd.png)
+<img src="./images/odd.png" width="450">
 
 **ODD: 홀수번째 LED ON**
 
