@@ -72,10 +72,14 @@ RISC-V 기반 Multi-Cycle CPU를 설계하고, APB 버스를 통해 UART Periphe
        5 Clock Cycle
 ```
 ### 📊 RISC-C Top Block Diagram
-![top Block diagram](./images/top.png)
+<p align="center">
+  <img src="./images/top.png" width="550">
+</p>
 
 ### 📊 PC & FPGA 동작 화면
-<img src="./images/odd.png" width="450">
+<p align="center">
+  <img src="./images/odd.png" width="450">
+</p>
 
 **ODD: 홀수번째 LED ON**
 
