@@ -1,4 +1,4 @@
-# 🖥️ RISC-V Multi-Cycle CPU & APB 프로젝트 완벽 면접 대비 가이드
+# 🖥️ RISC-V Multi-Cycle CPU & APB 프로젝트 완벽 분석
 
 ## 목차
 1. [프로젝트 핵심 요약](#1-프로젝트-핵심-요약)
@@ -1744,18 +1744,3 @@ Parity bit는 생략했습니다 (8N1 설정)."
 
 5. **"FPGA 실제 동작 검증"**
    - LED 제어, UART 통신
-
-### 💪 자신감 있게 말하기
-- "37개 명령어를 모두 구현했고, FPGA에서 실제로 LED를 제어하며 동작을 확인했습니다"
-- "Multi-Cycle FSM 설계로 평균 3.5 CPI를 달성했고, 메모리 타이밍 문제를 MEMORY_DELAY 상태로 해결했습니다"
-- "APB 버스로 UART, GPIO를 제어하는 완전한 SoC를 구현했습니다"
-
-### 🎯 면접 팁
-1. **구체적인 숫자** 사용 (37개, 15 states, 3.5 CPI)
-2. **문제 해결 과정** 강조
-3. **실제 동작** 언급 (FPGA, LED, UART)
-4. **추가 질문** 유도 (Pipeline, Cache, Interrupt)
-
----
-
-**면접 파이팅! 🚀**
